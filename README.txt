@@ -21,8 +21,7 @@ Since QuarterMoon is coded in Python, you'll need several installations first:
 
 0.3 The Game
 ============
-Bitbucket:		http://bitbucket.org/spazzpp2/quartermoon
-Latest source:	http://bitbucket.org/spazzpp2/quartermoon/get/tip.zip
+Latest source:	http://github.com/spazzpp2/QuarterMoon/archives/master
 
 
 ==============
