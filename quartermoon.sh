@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd src; python Controller.py
+cd src; python -O Controller.py
