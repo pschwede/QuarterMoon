@@ -17,7 +17,7 @@ Since QuarterMoon is coded in Python, you'll need several installations first:
 * PyGame (1.91. or above)	http://www.pygame.org/download.shtml
 
 ### 0.3 The Game
-Latest source:	http://github.com/spazzpp2/QuarterMoon/archives/master
+Latest source:	http://github.com/pschwede/QuarterMoon/archives/master
 
 
 1. How to run?
@@ -40,7 +40,7 @@ There would be *several* ways:
 
 2. Licence
 ----------
-Copyright (c) 2010 spazzpp2
+Copyright (c) 2010 pschwede
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
