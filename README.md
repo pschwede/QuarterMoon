@@ -1,5 +1,7 @@
 # QuarterMoon
 
+Whith QuarterMoon I wanted to try out some code for 2D strategy games I had in mind for years.
+
 ## Requirements
 
 ### Hardware
